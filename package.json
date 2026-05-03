@@ -1,0 +1,8 @@
+{
+  "name": "p5js-snooker",
+  "version": "1.0.0",
+  "description": "World Snooker Championship game in p5.js",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
